@@ -1,0 +1,19 @@
+@font-face{
+    font-family: "bebas_neuebold";
+    src: url("../fonts/Montserrat-Bold.woff") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face{
+    font-family: "bebas_neue_regularregular";
+    src: url("../fonts/Montserrat-Regular.woff") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face{
+    font-family: "bebas_neuebook";
+    src: url("../fonts/Montserrat-Medium.woff") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
